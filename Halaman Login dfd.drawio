@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T07:02:22.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0sndaih05X-BxYg7nSYg" version="24.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-29T07:04:42.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XEC5ayyygC8eSBeayIWX" version="24.2.0" type="github" pages="3">
   <diagram name="Halaman Login dfd" id="44LEgpog10mTBOyXUpHi">
     <mxGraphModel dx="756" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -108,25 +108,19 @@
         <mxCell id="27Zh0hGcwNleiV3MD0Gi-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="310" y="60" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5BqOkM6_JBLCpaxiIyKo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWoMi2S4jqbOJm6Kr29S-1" target="5BqOkM6_JBLCpaxiIyKo-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aWoMi2S4jqbOJm6Kr29S-1" value="Admin MemValidiasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5BqOkM6_JBLCpaxiIyKo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5BqOkM6_JBLCpaxiIyKo-1" edge="1">
+        <mxCell id="5BqOkM6_JBLCpaxiIyKo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aWoMi2S4jqbOJm6Kr29S-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="375" y="400" as="targetPoint" />
+            <mxPoint x="375" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BqOkM6_JBLCpaxiIyKo-1" value="if admin menyesetujui" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="260" width="105" height="100" as="geometry" />
+        <mxCell id="aWoMi2S4jqbOJm6Kr29S-1" value="Admin MemValidiasi&lt;div&gt;Ke Drop Point Next&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BqOkM6_JBLCpaxiIyKo-7" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="310" y="490" width="130" height="70" as="geometry" />
+          <mxGeometry x="310" y="350" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l4H1qCp-XYL1mvQUBix8-1" value="Di Proses Ke TPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="315" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l4H1qCp-XYL1mvQUBix8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l4H1qCp-XYL1mvQUBix8-1" target="5BqOkM6_JBLCpaxiIyKo-7">
           <mxGeometry relative="1" as="geometry" />
